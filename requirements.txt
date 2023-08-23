@@ -8,6 +8,7 @@ gunicorn==21.2.0
 idna==3.4
 packaging==23.1
 psycopg2==2.9.7
+Pillow==8.1.2
 requests==2.31.0
 sqlparse==0.4.4
 typing_extensions==4.7.1
